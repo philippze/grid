@@ -1,0 +1,7 @@
+{
+    "name": "philippze/grid-core",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.0"
+    }
+}
